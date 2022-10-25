@@ -1,0 +1,3 @@
+JUFlag{Y0u_Save_mE_:)}
+
+cat part1 part2 part3 > flag.png

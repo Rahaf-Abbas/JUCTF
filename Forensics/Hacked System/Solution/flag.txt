@@ -1,0 +1,4 @@
+JUFlag{g00d_g00b}
+
+flag is hidden in large file 
+which indicates file has been edited in the hacked folder

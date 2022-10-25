@@ -1,0 +1,6 @@
+#Name: Fix me
+#Level: medium
+#Description: Magic is in the air! Want a byte of it? 
+
+
+flag format: JUFlag{}

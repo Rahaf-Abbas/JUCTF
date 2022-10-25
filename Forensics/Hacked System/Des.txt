@@ -1,0 +1,5 @@
+#Name: Hacked System
+#Level: medium
+#Description: Our System has been hacked! , we need an incident responder 
+
+flag format: JUFlag{}
