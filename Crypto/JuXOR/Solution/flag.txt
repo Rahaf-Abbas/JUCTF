@@ -1,0 +1,1 @@
+JUFlag{y0u_Have_bruteforce_XOR}

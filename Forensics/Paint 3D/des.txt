@@ -1,0 +1,4 @@
+#name: Paint 3D
+#Description:  Discover the spectrum! , Write down what you see
+
+- Flag Format: JUFlag{word}

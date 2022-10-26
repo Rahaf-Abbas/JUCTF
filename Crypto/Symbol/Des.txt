@@ -1,3 +1,5 @@
 #name: Dancing
 #Level: easy
 #Description: Dance is integral to being human
+
+- Flag Format : JUFlag{DecodedString}
