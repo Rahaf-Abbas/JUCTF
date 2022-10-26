@@ -1,2 +1,3 @@
 #name: dark
+#Level: easy
 #Description: the light is off and i cant see can you help me?
