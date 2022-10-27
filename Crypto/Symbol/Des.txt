@@ -1,4 +1,4 @@
-#name: Dancing
+#name: Symbol
 #Level: easy
 #Description: Dance is integral to being human
 
